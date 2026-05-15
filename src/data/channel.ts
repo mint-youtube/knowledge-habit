@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🌱",
   category: "교육",
   tagline: "오늘 1%, 1년 후 37배 성장",
+  youtubeUrl: "https://youtube.com/channel/UCNxp2P2Znc5H8zbSvi_5MgA",
   layoutId: "soft-pastel-zine",
   isLight: true,
   tokens: {
