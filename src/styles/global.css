@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: #FBF7F4;
+    --bg-secondary: #F4ECE5;
+    --fg: #3D3530;
+    --muted: #7A6A5E;
+    --accent: #C8826B;
+    --accent2: #A26A57;
+    --border: #E8DCD2;
+    --hover: #F0E4DA;
+    --font-heading: 'Gowun Batang', serif;
+    --font-body: 'Gowun Dodum', sans-serif;
+    --font-mono: ui-monospace, monospace;
+  }
+  html, body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-body);
+    line-height: 1.85;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); text-decoration: none; transition: color .2s ease, opacity .2s ease; }
+  a:hover { color: var(--accent2); opacity: 0.9; }
+}
+
+/* 광고 컴포넌트(.ad-coupang/.ad-aliexpress)는 컴포넌트 내부 인라인 스타일 사용 — 외부 wrapper 추가 X */
+
+
+/* Layout-specific signature */
+
+.prose h2 { border-bottom: none !important; padding-left: 1rem; position: relative; }
+.prose h2::before { content: "✿"; position: absolute; left: -0.5rem; color: var(--accent); opacity: 0.6; }
+.prose img { border-radius: 24px !important; }
