@@ -5,7 +5,7 @@ pubDate: 2026-05-30T07:00:00+09:00
 author: ""
 category: ""
 tags: ["5분 명상", "마음챙김", "하버드 라자르", "MBSR", "전두엽 회백질", "편도체", "스트레스 감소", "뇌과학", "하루1퍼센트", "30일 챌린지"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=zN5AvvGMHG0"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-05-30-five-min-meditation-mindfulness-30days/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-06-12T08:32:00+09:00
 author: ""
 category: ""
 tags: ["2분 규칙", "마이크로 습관", "습관 형성 방법", "아토믹 해빗", "제임스 클리어", "작은 습관 만들기", "새해 결심 실패 이유", "습관 시작법", "생산성 향상", "자기계발 습관"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Zd7mzaM2ZhY"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-12-micro-habit-2-minute-rule/scene-2_img_2.png"
 draft: false
 ---

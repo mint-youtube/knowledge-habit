@@ -5,7 +5,7 @@ pubDate: 2026-05-29T07:00:00+09:00
 author: ""
 category: ""
 tags: ["21일 습관설", "66일 습관", "맥스웰 말츠", "Psycho-Cybernetics", "필리파 랠리", "UCL 습관 연구", "습관 형성", "자동화 곡선", "Lally 2009"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=D4I1PONuUis"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-05-29-21-days-myth-66-days-truth/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-06-11T18:28:00+09:00
 author: ""
 category: ""
 tags: ["수면 주기 90분", "최적 기상 시간 계산", "렘수면 역할", "수면 관성", "8시간 수면 피곤", "숙면 방법", "수면 질 향상", "파워냅 효과", "카페인 수면 방해", "수면 루틴"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eBfUhGxCDOc"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-11-sleep-90min-cycle-best-time/scene-2_img_2.png"
 draft: false
 ---

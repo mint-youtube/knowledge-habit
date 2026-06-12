@@ -5,7 +5,7 @@ pubDate: 2026-05-31T07:00:00+09:00
 author: ""
 category: ""
 tags: ["GTD", "위클리 리뷰", "데이비드 알렌", "Getting Things Done", "생산성", "주말 루틴", "자기계발", "와튼 스쿨 연구", "캘린더 관리", "하루1퍼센트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=0GNzOgrEssA"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-05-31-weekly-review-getting-things-done/scene-2_img_2.png"
 draft: false
 ---

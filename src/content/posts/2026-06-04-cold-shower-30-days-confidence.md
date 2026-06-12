@@ -5,7 +5,7 @@ pubDate: 2026-06-04T07:40:00+09:00
 author: ""
 category: ""
 tags: ["찬물샤워 자신감", "자기효능감 높이기", "불편함 내성 훈련", "찬물샤워 30일 효과", "신경과학 자신감", "도파민 보상 훈련", "멘탈 강해지는 법", "불편함 선택 성장", "찬물샤워 마인드셋", "의지력 훈련"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=JUOZdT75QAc"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-04-cold-shower-30-days-confidence/scene-2_img_2.png"
 draft: false
 ---
