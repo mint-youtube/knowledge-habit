@@ -5,7 +5,7 @@ pubDate: 2026-06-12T21:34:00+09:00
 author: ""
 category: ""
 tags: ["찬물샤워 효과", "빔호프 프로토콜", "냉수욕 면역력", "노르에피네프린 증가", "찬물샤워 방법", "우울증 예방 습관", "아침 루틴 건강", "냉수샤워 시작법", "면역력 높이는 법", "하루 습관"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=e2078JIS5BA"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-12-cold-shower-3-minute-wim-hof/scene-2_img_2.png"
 draft: false
 ---
