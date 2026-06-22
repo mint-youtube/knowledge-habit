@@ -5,7 +5,7 @@ pubDate: 2026-06-23T07:00:00+09:00
 author: ""
 category: ""
 tags: ["하루 1000원 저축", "복리 효과", "저축 습관", "눈덩이 효과", "재무심리학", "저축 챌린지", "365일 저축", "작은 습관 재테크", "자동이체 저축", "돈 모으는 법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=l29BlOEWe3U"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-23-save-1000won-daily-365-days-snowball/scene-2_img_2.png"
 draft: false
 ---
