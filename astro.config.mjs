@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import tailwind from '@astrojs/tailwind';
 
-const SITE = process.env.BLOG_SITE_URL || 'https://knowledge-habit.dailynote.blog';
+const SITE = process.env.BLOG_SITE_URL || 'https://habit.dailynote.blog';
 
 export default defineConfig({
   site: SITE,
