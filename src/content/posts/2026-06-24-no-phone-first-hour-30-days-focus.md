@@ -5,7 +5,7 @@ pubDate: 2026-06-24T07:00:00+09:00
 author: ""
 category: ""
 tags: ["아침 폰 끄기", "도파민 리셋", "집중력 회복", "디지털 디톡스", "모닝 루틴", "아침 습관", "30일 챌린지", "폰 중독 끊기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=q03ilnH0pz4"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-24-no-phone-first-hour-30-days-focus/scene-2_img_2.png"
 draft: false
 ---
