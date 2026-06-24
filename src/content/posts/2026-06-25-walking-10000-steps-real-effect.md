@@ -5,7 +5,7 @@ pubDate: 2026-06-25T07:00:00+09:00
 author: ""
 category: ""
 tags: ["하루 만보 효과", "1만보 분기점", "4000보 건강", "걷기 뇌 건강", "하버드 걷기 연구", "걷기 창의력", "걷기 습관 만들기", "일상 걷기 방법", "만보계 진실", "산책 효과"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=n3dFktzsHZc"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-25-walking-10000-steps-real-effect/scene-2_img_2.png"
 draft: false
 ---
