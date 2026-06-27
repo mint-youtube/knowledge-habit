@@ -5,7 +5,7 @@ pubDate: 2026-06-27T17:14:00+09:00
 author: ""
 category: ""
 tags: ["하루 2분 플랭크", "플랭크 효과", "코어 운동", "허리 통증 운동", "플랭크 자세", "무릎 플랭크", "홈트레이닝", "코어 강화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=68gYxYbchyg"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-27-two-min-plank-daily-90-days-core/scene-2_img_2.png"
 draft: false
 ---
