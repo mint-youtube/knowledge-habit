@@ -5,7 +5,7 @@ pubDate: 2026-06-28T20:16:00+09:00
 author: ""
 category: ""
 tags: ["단일 작업", "90분 집중", "딥워크", "멀티태스킹 단점", "몰입 방법", "생산성 높이는 법", "집중력 향상", "시간 관리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=n2O6EhWaus8"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-06-28-single-task-90-min-block-productivity/scene-2_img_2.png"
 draft: false
 ---
