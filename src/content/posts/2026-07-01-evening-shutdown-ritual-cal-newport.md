@@ -5,7 +5,7 @@ pubDate: 2026-07-01T14:32:00+09:00
 author: ""
 category: ""
 tags: ["칼 뉴포트", "딥 워크", "셧다운 의식", "저녁 루틴", "자이가르닉 효과", "집중력", "생산성", "심도 있는 일", "조지타운 대학교", "하루1퍼센트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=AEZdQcdW0Yo"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-01-evening-shutdown-ritual-cal-newport/scene-2_img_2.png"
 draft: false
 ---
