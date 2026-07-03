@@ -5,7 +5,7 @@ pubDate: 2026-07-04T07:00:00+09:00
 author: ""
 category: ""
 tags: ["개구리 먹기", "의지력 고갈 이론", "MIT 전략", "팀 페리스", "브라이언 트레이시", "아침 루틴", "생산성", "습관 형성"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=NlzVwjw8REw"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-04-eat-frog-first-tim-ferriss/scene-3_img_2.png"
 draft: false
 ---
@@ -80,5 +80,3 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 시작 방법은 복잡하지 않습니다. 오늘 밤 잠들기 전, 내일의 개구리를 하나 정해 종이에 적고 책상 위 가장 잘 보이는 곳에 붙여두십시오. 내일 아침 눈을 뜨면 스마트폰을 열기 전에 그 종이부터 확인합니다. 개구리를 끝내기 전까지는 이메일도, 메신저도, 소셜 미디어도 열지 않는다는 원칙을 지킵니다. 처음에는 낯설고 30분에서 1시간이 걸릴 수도 있지만, 그것을 끝냈을 때 찾아오는 홀가분함이 다음 날 아침에도 같은 선택을 하게 만드는 가장 강력한 동기가 됩니다. 마크 트웨인의 오래된 농담 같은 비유가 100여 년이 지난 오늘날에도 유효한 이유는, 결국 인간의 의지력과 뇌가 작동하는 방식이 그때나 지금이나 크게 다르지 않기 때문일 것입니다.
 
 ![intro](https://assets.dailynote.blog/knowledge-habit/2026-07-04-eat-frog-first-tim-ferriss/intro_img_2.png)
-
-이 글의 원본 영상: {{youtube_url}}
