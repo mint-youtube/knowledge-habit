@@ -5,7 +5,7 @@ pubDate: 2026-07-15T07:00:00+09:00
 author: ""
 category: ""
 tags: ["5-4-3-2-1 기법", "그라운딩", "불안 발작", "공황 대처법", "편도체", "90초 법칙", "감정 조절", "마음챙김", "불안 완화 습관", "심리학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mCBocjQPR8A"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-15-5-4-3-2-1-grounding-anxiety-21-days/scene-2_img_2.png"
 draft: false
 ---
