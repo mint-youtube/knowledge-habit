@@ -5,7 +5,7 @@ pubDate: 2026-07-16T07:00:00+09:00
 author: ""
 category: ""
 tags: ["기상 직후 물", "아침 물 500ml", "신진대사", "만성 피로", "아침 탈수", "수분 보충", "모닝 루틴", "아침 두통", "건강 습관", "물 마시기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=UWaY3WhyP80"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-16-wake-water-500ml-metabolism-30-days/scene-2_img_2.png"
 draft: false
 ---
