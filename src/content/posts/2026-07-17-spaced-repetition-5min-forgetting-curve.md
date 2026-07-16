@@ -5,7 +5,7 @@ pubDate: 2026-07-17T07:00:00+09:00
 author: ""
 category: ""
 tags: ["간격 반복", "망각 곡선", "에빙하우스", "복습 방법", "하루 5분 공부", "인출 연습", "기억력 향상", "장기 기억", "공부 습관", "학습법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=YA38RKmCusw"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-17-spaced-repetition-5min-forgetting-curve/scene-2_img_2.png"
 draft: false
 ---
