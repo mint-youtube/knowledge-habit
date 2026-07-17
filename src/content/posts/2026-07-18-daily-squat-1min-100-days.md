@@ -5,7 +5,7 @@ pubDate: 2026-07-18T08:34:00+09:00
 author: ""
 category: ""
 tags: ["하루 1분 스쿼트", "스쿼트 효과", "기초대사", "하체 운동", "홈트레이닝", "100일 챌린지", "운동 습관", "다이어트 운동", "체력 관리", "근력 운동"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=XYk7wdmo8jk"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-18-daily-squat-1min-100-days/scene-2_img_2.png"
 draft: false
 ---
