@@ -5,7 +5,7 @@ pubDate: 2026-07-19T07:00:00+09:00
 author: ""
 category: ""
 tags: ["아침 3분 계획", "생산성 2배", "목표 설정", "모닝 루틴", "시간 관리", "습관 형성", "우선순위 정하기", "자기계발 습관"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RBSY7ocLIck"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-19-morning-3min-planning-productivity/scene-2_img_2.png"
 draft: false
 ---
