@@ -5,7 +5,7 @@ pubDate: 2026-07-23T08:04:00+09:00
 author: ""
 category: ""
 tags: ["침대정리 습관", "아침 루틴", "핵심 습관", "자기계발", "30일 습관", "미라클모닝", "생산성 습관", "작은 습관의 힘"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=J0M8Ju-UsRk"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-23-make-bed-first-30-days-navy/scene-2_img_2.png"
 draft: false
 ---
