@@ -5,7 +5,7 @@ pubDate: 2026-07-24T12:30:00+09:00
 author: ""
 category: ""
 tags: ["카페인 반감기", "오후 커피", "불면증 원인", "수면의 질", "숙면 습관", "아데노신", "커피와 수면", "카페인 끊기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gM0etdEUKVs"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-24-afternoon-coffee-sleep-halflife/scene-2_img_2.png"
 draft: false
 ---
