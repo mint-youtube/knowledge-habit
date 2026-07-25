@@ -5,7 +5,7 @@ pubDate: 2026-07-26T07:00:00+09:00
 author: ""
 category: ""
 tags: ["파워냅", "20분 낮잠", "수면 관성", "NASA 낮잠 연구", "낮잠 방법", "커피 낮잠", "오후 피로", "낮잠 시간"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=kQFR5sECp4I"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-26-power-nap-20min-nasa-limit/scene-2_img_2.png"
 draft: false
 ---
