@@ -5,7 +5,7 @@ pubDate: 2026-07-29T07:36:00+09:00
 author: ""
 category: ""
 tags: ["충동구매 멈추는 법", "24시간 규칙", "절약 습관", "돈 모으는 법", "소비 심리", "도파민 소비", "저축 습관", "자기계발 습관"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=AD2ZuIDA8Hk"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-29-impulse-buy-24hour-rule-30days/scene-2_img_2.png"
 draft: false
 ---
