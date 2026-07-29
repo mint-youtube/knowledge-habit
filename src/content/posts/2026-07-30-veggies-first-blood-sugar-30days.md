@@ -5,7 +5,7 @@ pubDate: 2026-07-30T07:43:00+09:00
 author: ""
 category: ""
 tags: ["혈당 관리 식사법", "채소 먼저 먹기", "식사 순서 혈당", "거꾸로 식사법", "혈당 스파이크 낮추는 법", "식후 혈당 관리", "식이섬유 혈당", "건강 식습관"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=83cAji-SsQw"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-30-veggies-first-blood-sugar-30days/scene-2_img_2.png"
 draft: false
 ---
