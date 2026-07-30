@@ -5,7 +5,7 @@ pubDate: 2026-07-31T07:48:00+09:00
 author: ""
 category: ""
 tags: ["계단 오르기 효과", "심장 나이 젊어지는 법", "심폐 지구력 향상", "운동 스낵", "생활 속 유산소 운동", "계단 운동 심장", "심장 건강 습관", "체력 회복 방법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=GO0riUOllJQ"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-07-31-take-stairs-daily-90-days-heart/scene-2_img_2.png"
 draft: false
 ---
