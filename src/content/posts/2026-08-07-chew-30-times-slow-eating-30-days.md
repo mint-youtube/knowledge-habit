@@ -5,7 +5,7 @@ pubDate: 2026-08-07T07:00:00+09:00
 author: ""
 category: ""
 tags: ["천천히 씹기", "30번 씹기", "소화 잘 되는 법", "포만감", "다이어트 습관", "과식 방지", "식습관 개선", "뱃살 빼기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Bsowev3CwWE"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-08-07-chew-30-times-slow-eating-30-days/scene-2_img_2.png"
 draft: false
 ---
