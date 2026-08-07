@@ -5,7 +5,7 @@ pubDate: 2026-08-08T07:00:00+09:00
 author: ""
 category: ""
 tags: ["결정 피로", "의지력", "생산성", "집중력 높이는 법", "미니멀리즘", "아침 루틴", "선택 줄이기", "자기계발"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Phv3_snzQLU"
 heroImage: "https://assets.dailynote.blog/knowledge-habit/2026-08-08-decision-fatigue-fewer-choices-30-days/scene-2_img_2.png"
 draft: false
 ---
